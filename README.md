@@ -1,4 +1,4 @@
-# Примеры packer-рецептов
+# Примеры packer-рецептов для создания образа виртуальной машины
 
 Чтобы добавить в [Marketplace](https://yandex.cloud/ru/docs/marketplace/operations/create-image) продукт для [Yandex Compute Cloud](https://yandex.cloud/ru/docs/compute/), нужно загрузить [образ](https://yandex.cloud/ru/docs/compute/concepts/image) в Yandex Cloud.
 
